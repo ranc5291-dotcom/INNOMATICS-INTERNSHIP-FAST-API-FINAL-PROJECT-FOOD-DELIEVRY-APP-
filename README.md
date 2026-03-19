@@ -142,6 +142,6 @@ The project comes with 7 pre-loaded menu items:
 
 ---
 
-## 🙏 Acknowledgement
+##  Acknowledgement
 
 Thanks to **Innomatics Research Labs** for the structured FastAPI internship training. This project helped me understand how to design real-world REST APIs, structure backend systems, and implement complete application workflows.
